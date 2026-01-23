@@ -4,8 +4,7 @@
 - 🎓 ECE Student from NIT Jalandhar
 - ⚙️ Interested in **VLSI, FPGA, Digital Design & Embedded Systems**
 - 🧪 Working on **Verilog, SystemVerilog, DSP & FPGA**
-- 📄 Know about my experiences [[https://www.overleaf.com/read/zbbnqtnrmmyp#1828e8](https://www.overleaf.com/read/zbbnqtnrmmyp#1828e8)](https://www.overleaf.com/project/676e8fb7d77d4b0bed4b41a0)
-
+- 📄 Know about my experiences [[https://www.overleaf.com/project/676e8fb7d77d4b0bed4b41a0]](https://www.overleaf.com/read/vnrbyzjxjhjc#6b6003)
 ## 🛠️ Tech Stack
 - **HDL:** Verilog, SystemVerilog  
 - **Specialization:** RTL Designing, UVM Verification, VLSI Physical Design, Bare-Metal Programming
