@@ -14,4 +14,4 @@
 
 ## 📫 Reach Me
 - 📧 Email: devansh.work.ece@gmail.com
-- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/devansh-sharma-502567275/)
+- 💼 LinkedIn: [https://linkedin.com/in/myprofile](https://www.linkedin.com/in/devansh-sharma-502567275/)
